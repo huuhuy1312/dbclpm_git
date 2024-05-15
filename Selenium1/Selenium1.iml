@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/selenium/auto-service-annotations-1.1.1.jar!/" />
+          <root url="jar://C:/selenium/byte-buddy-1.14.14-sources.jar!/" />
+          <root url="jar://C:/selenium/byte-buddy-1.14.14.jar!/" />
+          <root url="jar://C:/selenium/checker-qual-3.42.0.jar!/" />
+          <root url="jar://C:/selenium/commons-exec-1.4.0.jar!/" />
+          <root url="jar://C:/selenium/error_prone_annotations-2.26.1.jar!/" />
+          <root url="jar://C:/selenium/selenium-devtools-v85-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-context-1.37.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-support-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-manager-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-devtools-v122-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-sdk-extension-autoconfigure-spi-1.37.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-java-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-json-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-os-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/failureaccess-1.0.2.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-api-incubator-1.37.0-alpha.jar!/" />
+          <root url="jar://C:/selenium/failsafe-3.3.2.jar!/" />
+          <root url="jar://C:/selenium/selenium-chrome-driver-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-api-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-ie-driver-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-sdk-logs-1.37.0.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-exporter-logging-1.37.0.jar!/" />
+          <root url="jar://C:/selenium/jsr305-3.0.2.jar!/" />
+          <root url="jar://C:/selenium/guava-33.1.0-jre.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-sdk-1.37.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-safari-driver-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-firefox-driver-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-edge-driver-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-sdk-metrics-1.37.0.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-sdk-trace-1.37.0.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-semconv-1.25.0-alpha.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-api-1.37.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-devtools-v123-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-sdk-extension-autoconfigure-1.37.0.jar!/" />
+          <root url="jar://C:/selenium/j2objc-annotations-3.0.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-http-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-devtools-v124-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-sdk-common-1.37.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-chromium-driver-4.20.0.jar!/" />
+          <root url="jar://C:/selenium/selenium-remote-driver-4.20.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://C:/selenium/auto-service-annotations-1.1.1-sources.jar!/" />
+          <root url="jar://C:/selenium/byte-buddy-1.14.14-sources.jar!/" />
+          <root url="jar://C:/selenium/checker-qual-3.42.0-sources.jar!/" />
+          <root url="jar://C:/selenium/commons-exec-1.4.0-sources.jar!/" />
+          <root url="jar://C:/selenium/error_prone_annotations-2.26.1-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-devtools-v123-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-semconv-1.25.0-alpha-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-safari-driver-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-sdk-extension-autoconfigure-1.37.0-sources.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-sdk-trace-1.37.0-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-os-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-api-incubator-1.37.0-alpha-sources.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-api-1.37.0-sources.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-context-1.37.0-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-devtools-v85-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-chromium-driver-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-exporter-logging-1.37.0-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-api-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-sdk-metrics-1.37.0-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-remote-driver-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-sdk-1.37.0-sources.jar!/" />
+          <root url="jar://C:/selenium/guava-33.1.0-jre-sources.jar!/" />
+          <root url="jar://C:/selenium/j2objc-annotations-3.0.0-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-devtools-v122-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-firefox-driver-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-sdk-extension-autoconfigure-spi-1.37.0-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-json-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-chrome-driver-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/jsr305-3.0.2-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-edge-driver-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-ie-driver-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-sdk-common-1.37.0-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-support-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-http-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-devtools-v124-4.20.0-sources.jar!/" />
+          <root url="jar://C:/selenium/failureaccess-1.0.2-sources.jar!/" />
+          <root url="jar://C:/selenium/opentelemetry-sdk-logs-1.37.0-sources.jar!/" />
+          <root url="jar://C:/selenium/failsafe-3.3.2-sources.jar!/" />
+          <root url="jar://C:/selenium/selenium-manager-4.20.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="opencsv" level="project" />
+    <orderEntry type="library" exported="" name="junit.jupiter" level="project" />
+    <orderEntry type="library" exported="" name="mysql.connector.java" level="project" />
+  </component>
+</module>

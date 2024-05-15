@@ -1,0 +1,77 @@
+.root-register{
+    width: 100%;
+    height: 1200px;
+    background: linear-gradient(to right, #D65DB1, #C6CFFF);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lobster', cursive;
+}
+.form-regis{
+    width: 70%;
+    height: 90%;
+    background-color: white;
+    border-radius: 10px;
+}
+.title{
+    margin-top: 5%;
+    font-size: 35px;
+}
+.form-input-regis{
+    width: 100%;
+    display: flex;
+    font-size: 16px;
+}
+.form-left{
+    margin-left: 7%;
+    width: 50%;
+    height: 100%;
+    margin-right: 5%;
+}
+.form-left div div{
+    margin-top: 3%;
+}
+.form-left div select{
+    margin-top: 2%;
+    font-family: 'Lobster', cursive;
+    width: 92%;
+    height: 27px;
+    cursor: pointer;
+}
+.form-left div input{
+    margin-top: 1%;
+    font-size: 16px;
+    font-family: 'Lobster', cursive;
+    width: 90%;
+    height: 25px;
+}
+.form-right{
+    margin-left: 5%;
+    width: 50%;
+    height: 100%;
+    margin-right: 5%;
+}
+.form-right div div{
+    margin-top: 3%;
+}
+.form-right div input{
+    margin-top: 1%;
+    font-size: 16px;
+    font-family: 'Lobster', cursive;
+    width: 90%;
+    height: 25px;
+}
+.img-cccd{
+    display: flex;
+    margin-left: 7%;
+    margin-right: 7%;
+    width: 100%;
+    margin-top: 1%;
+}
+.mb-3{
+    width: 50%;
+}
+.img-cn{
+    margin-left: 7%;
+    margin-top: 2%;
+}

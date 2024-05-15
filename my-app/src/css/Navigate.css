@@ -1,0 +1,84 @@
+.navigate-contains {
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    position: fixed;
+    right: 0;/* Đảm bảo các phần tử con được căn đều trên chiều ngang */
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+}
+.info-title{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+.info-row {
+    display: flex;
+    align-items: center; /* Đảm bảo các phần tử con được căn giữa trên chiều dọc */
+    margin: 5px; 
+    margin-top: 0px;
+}
+
+.info-label {
+    min-width: 100px; /* Đảm bảo các title có độ rộng tối thiểu */
+    margin-right: 10px;
+    text-align: left; /* Khoảng cách giữa title và thông tin */
+}
+
+.navigate {
+    display: flex;
+    flex-direction: column;
+}
+.navigate-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navigate-item {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    padding: 10px;
+}
+
+.navigate-item:hover,
+.navigate-item:focus {
+    background-color: #f0f0f0;
+    outline: none;
+}
+
+.navigate-item svg {
+    margin-right: 10px;
+}
+
+.navigate-item.selected {
+    background-color: #ccc; /* Màu nền khi được chọn */
+}
+
+.navigate-contains {
+    display: flex;
+    justify-content: space-between;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.info-row_link{
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}

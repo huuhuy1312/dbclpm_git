@@ -1,0 +1,150 @@
+.root-ycdk {
+  width: 100%;
+  height: 1000px;
+  font-family: "Lobster", cursive;
+}
+.container {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 20px;
+}
+.title-ycdk {
+  width: 100%;
+  text-align: start;
+  font-size: 25px;
+  margin-top: 5%;
+}
+.tbl-ycdk {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+.tbl-ycdk th {
+  border: 1px solid #ccc;
+  background-color: rgb(217, 222, 225);
+}
+.tbl-ycdk td {
+  border: 1px solid #ccc;
+}
+.tbl-ycdk .col1 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 5%;
+}
+.tbl-ycdk .col2 {
+  width: 80%;
+}
+.tbl-ycdk .col3 {
+  width: 15%;
+  align-items: center;
+}
+.info-container {
+  font-size: 16px;
+  text-align: left;
+}
+.info-user-container {
+  display: flex;
+  margin-top: 5px;
+}
+.info1 {
+  width: 20%;
+  text-align: end;
+}
+.info2 {
+  width: 70%;
+  margin-right: 5%;
+  margin-left: 3%;
+}
+.image-container {
+  display: flex;
+  width: 100%;
+  height: 200px;
+  margin-top: 10px;
+}
+.img-container {
+  width: 50%;
+  text-align: center;
+}
+.info-img {
+  width: 100%;
+}
+.nnv {
+  margin-top: 10px;
+}
+.btn {
+  width: 150px;
+  font-family: "Lobster", cursive;
+  font-size: 16px;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  margin-top: 20px;
+}
+.btn-confirm {
+  background-color: #1fc628;
+}
+.btn-confirm:hover {
+  background-color: #45a049;
+}
+
+.btn-reject {
+  background-color: #f44336; /* Red */
+  color: white;
+}
+
+.btn-reject:hover {
+  background-color: #da190b;
+}
+.modal {
+  display: none; /* Mặc định ẩn modal */
+  position: fixed; /* Vị trí cố định */
+  z-index: 1; /* Layer cao nhất */
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto; /* Cho phép cuộn nếu nội dung quá dài */
+  background-color: rgba(0, 0, 0, 0.4); /* Màu nền và độ mờ */
+}
+
+.modal-content {
+  background-color: #fefefe; /* Màu nền của modal */
+  margin: 15% auto; /* Canh giữa modal trên màn hình */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Chiều rộng của modal */
+}
+
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+textarea {
+  width: 100%; /* Chiều rộng của textarea */
+  height: 100px; /* Chiều cao của textarea */
+  margin-bottom: 10px; /* Khoảng cách phía dưới */
+}
+
+button {
+  background-color: #4caf50; /* Màu nền của nút */
+  color: white; /* Màu chữ của nút */
+  padding: 10px 20px; /* Kích thước của nút */
+  border: none; /* Không có viền */
+  border-radius: 5px; /* Bo tròn góc */
+  cursor: pointer; /* Con trỏ khi rê chuột vào */
+}
+
+button:hover {
+  background-color: #45a049; /* Màu nền của nút khi hover */
+}

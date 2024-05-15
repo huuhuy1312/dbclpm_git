@@ -1,0 +1,6 @@
+"username","password","expected_page","pass"
+"manager","123456","manager Home Page",""
+"employee","123456","employee Home Page",""
+"nhh12300000001","Bzzhk7bO","customer Home Page",""
+"nvb12300000002","UF6EKPO3","customer Home Page",""
+"abc","12345123","Login Page",""

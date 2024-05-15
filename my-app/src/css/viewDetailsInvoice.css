@@ -1,0 +1,96 @@
+.root-view {
+    width: 100%;
+    height: 1000px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    font-family: "Lobster", cursive;
+  }
+  .contains-hdn {
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    cursor: default;
+  }
+  .title-hdn {
+    border-bottom: 1px solid #ccc;
+    background-color: #ccc;
+    padding: 8px;
+    text-align: center;
+  }
+  .info_customer {
+    display: flex;
+    width: 100%;
+    border: 1px solid #ccc;
+  }
+  .column1 {
+    width: 60%;
+  }
+  .column1-info {
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  .column1-info :first-child {
+    width: 30%;
+    text-align: end;
+    margin-right: 3%;
+  }
+  .column1-info :last-child {
+    width: 70%;
+  }
+  .column2 {
+    width: 40%;
+  }
+  .column2-info {
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  .column2-info :first-child {
+    width: 30%;
+    text-align: end;
+    margin-right: 3%;
+  }
+  .column2-info :last-child {
+    width: 69%;
+  }
+  .table_cal {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+  }
+  .tbl-1 thead {
+    background-color: #ccc;
+  }
+  .vax_details {
+    margin-top: 20px;
+    width: 100%;
+  }
+  .vax_details div {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .vax_detail_1 {
+    width: 30%;
+    text-align: end;
+    margin-right: 20px;
+  }
+  .vax_detail_2 {
+    width: 60%;
+  }
+  .btn-tt {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 300px;
+    font-family: "Lobster", cursive;
+    font-size: 20px;
+    border: none;
+    font-weight: bold;
+    border-radius: 30px;
+    color: white;
+    background: linear-gradient(to right, #5dbad6, #cbf1f1);
+    margin-left: 65%;
+  }
+  
